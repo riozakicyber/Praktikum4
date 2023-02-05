@@ -43,7 +43,7 @@ print("==================================================================")
 ```
 
 - Flowchart
-![Flowchart Program Nilai Mahasiswa](https://user-images.githubusercontent.com/123881535/216836588-d75be5ba-48fe-4204-a066-f058b5fdc2a3.png)
+![Uploading Flowchart Program Nilai Mahasiswa.png…]()
 
 - Screenshot Input
 ![Screenshot (52)](https://user-images.githubusercontent.com/123881535/216832371-dc0017bc-fe38-44ec-b1d5-bb3c37069609.png)
