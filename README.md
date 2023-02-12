@@ -42,9 +42,6 @@ for item in nilai:                                                            ##
 print("==================================================================")
 ```
 
-- Flowchart
-![Uploading Flowchart Program Nilai Mahasiswa.png…]()
-
 - Screenshot Input
 ![Screenshot (52)](https://user-images.githubusercontent.com/123881535/216832371-dc0017bc-fe38-44ec-b1d5-bb3c37069609.png)
 
